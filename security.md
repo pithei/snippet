@@ -25,9 +25,9 @@ Tools to obtain | Accounts (email, cisco devnet, github) <br /> [Ubuntu desktop 
    echo "hi"
 //
 ```
-
-https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X
-https://www.amazon.com/Applied-Network-Security-Monitoring-Collection/dp/0124172083
+ 
+https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X <br />
+https://www.amazon.com/Applied-Network-Security-Monitoring-Collection/dp/0124172083 <br />
 https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504![image](https://user-images.githubusercontent.com/73688531/140619808-73ba8f4d-be81-45e6-b711-8672f13a625f.png)
 
 
