@@ -8,6 +8,9 @@ Task list | YAML device Inventory <br /> Base config verification with ansible <
 Daily time slot | time
 Tools to obtain | Accounts (email, cisco devnet, github) <br /> [Ubuntu desktop VM](https://github.com/pithei/py100/blob/master/6_cisco_devnet/001_ubuntu_prep.txt) <br /> Git <br /> Postman <br /> Python <br /> Docker <br /> VSCode <br />
 
+```bash
+   # comment
+   echo "hi"
 
 ## Tips
 - Eliminate any barrier
