@@ -2,8 +2,7 @@
 Key | Value
 ---- | ----
 Target level | Generic understanding
-Learning Sources | [Exam Blueprint](https://developer.cisco.com/certification/exam-topic-associate/) <br />
-26h, [CBT Nuggets, DEVNET Associate (200-901 DEVASC) Online Training](https://www.cbtnuggets.com/it-training/cisco/devnet-associate)
+Learning Sources | [Exam Blueprint](https://developer.cisco.com/certification/exam-topic-associate/) <br /> 26h, [CBT Nuggets, DEVNET Associate (200-901 DEVASC) Online Training](https://www.cbtnuggets.com/it-training/cisco/devnet-associate) <br />
 Skill list | a b c
 Task list | task a task b
 Daily time slot | time
