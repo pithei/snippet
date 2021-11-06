@@ -33,7 +33,7 @@ https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X <br />
 https://www.amazon.com/Applied-Network-Security-Monitoring-Collection/dp/0124172083 <br />
 https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504 <br />
 
-
+https://github.com/apsdehal/awesome-ctf/blob/master/README.md#attacks <br />
 https://picoctf.com/external
 
 https://ctflearn.com/1/scoreboard/0
