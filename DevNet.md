@@ -8,9 +8,7 @@ Task list | task a task b
 Daily time slot | time
 Tools to obtain | tools
 
-
-
-## Advices
+## Tips
 - Eliminate any barrier
 - Learn enough to self correct
 - choose a project
@@ -18,6 +16,5 @@ Tools to obtain | tools
 - quantity over quality
 - practice minimum 20 hours
 - spaced repetition
-
 
 ## Notes
