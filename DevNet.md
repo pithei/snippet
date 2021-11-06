@@ -2,7 +2,7 @@
 Key | Value
 ---- | ----
 Target level | Generic understanding
-Learning Sources | [Exam Blueprint](https://developer.cisco.com/certification/exam-topic-associate/) <br /> 26h, [CBT Nuggets, DEVNET Associate (200-901 DEVASC) Online Training](https://www.cbtnuggets.com/it-training/cisco/devnet-associate) <br />
+Learning Sources | [Exam Blueprint](https://developer.cisco.com/certification/exam-topic-associate/) <br /> 26h, [CBT Nuggets, DEVNET Associate (200-901 DEVASC) Online Training](https://www.cbtnuggets.com/it-training/cisco/devnet-associate) <br />[Youtube, Learn Python - Full Course for Beginners ] (https://www.youtube.com/watch?v=rfscVS0vtbw) <br />
 Skill list | a b c
 Task list | YAML device Inventory <br /> Base config verification with ansible <br />
 Daily time slot | time
