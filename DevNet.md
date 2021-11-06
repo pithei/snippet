@@ -3,7 +3,7 @@ Key | Value
 ---- | ----
 Target level | Generic understanding
 Learning Sources | [Android Security](https://github.com/ashishb/android-security-awesome)
-Skill deconstruction | a b c
+Skill list | a b c
 Task list | task a task b
 Daily time slot | time
 Tools to obtain | tools
