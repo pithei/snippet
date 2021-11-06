@@ -6,7 +6,7 @@ Learning Sources | [Exam Blueprint](https://developer.cisco.com/certification/ex
 Skill list | a b c
 Task list | task a task b
 Daily time slot | time
-Tools to obtain | [Ubuntu desktop VM](https://github.com/pithei/py100/blob/master/6_cisco_devnet/001_ubuntu_prep.txt) <br />
+Tools to obtain | Accounts (email, cisco devnet, github) <br /> [Ubuntu desktop VM](https://github.com/pithei/py100/blob/master/6_cisco_devnet/001_ubuntu_prep.txt) <br />
 
 
 ## Tips
