@@ -2,7 +2,7 @@
 Key | Value
 ---- | ----
 Target level | Generic understanding
-Learning Sources | https://www.sans.org/cyber-security-skills-roadmap/
+Learning Sources | https://www.sans.org/cyber-security-skills-roadmap/ <br />https://elearnsecurity.com/product/ejpt-certification/
 Skill list | git <br /> python <br /> linux <br /> networking <br />
 Task list | YAML device Inventory <br /> Base config verification with ansible <br />
 Daily time slot | time
