@@ -1,4 +1,4 @@
-## Goals
+## DevNet Associate Exam v1.0 (200-901)
 Key | Value
 ---- | ----
 Target level | Generic understanding
