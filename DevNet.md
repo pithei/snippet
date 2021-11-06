@@ -11,7 +11,6 @@ Tools to obtain | tools
 
 
 ## Advices
----- | ----
 - Eliminate any barrier
 - Learn enough to self correct
 - choose a project
