@@ -7,6 +7,7 @@ Skill list | a b c
 Task list | task a task b
 Daily time slot | time
 Tools to obtain | tools
+
 ---- | ----
 
 ## Advices
