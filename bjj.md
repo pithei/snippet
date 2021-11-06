@@ -31,3 +31,4 @@ some more data
 ## Quantity over quality wins
 
 ## Minimum 20 hours of practice
+https://www.reddit.com/r/bjj/comments/e0ycek/a_beginners_guide_to_bjj_please_read_me_white/
