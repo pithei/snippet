@@ -26,4 +26,39 @@ Tools to obtain | Accounts (email, cisco devnet, github) <br /> [Ubuntu desktop 
 //
 ```
 
-aa
+https://picoctf.com/external
+
+https://ctflearn.com/1/scoreboard/0
+https://ctf101.org/
+https://trailofbits.github.io/ctf/intro/
+https://learningnetwork.cisco.com/s/devnet-associate-exam-topics
+
+
+https://portswigger.net/web-security/sql-injection![image](https://user-images.githubusercontent.com/73688531/140619014-0b892241-ff05-4a98-acb8-89b0c3a153d8.png)
+
+
+#wargames
+
+for a in {0..9}; do for b in {0..9}; do for c in {0..9}; do for d in {0..9}; do echo $a$b$c$d; echo "UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $a$b$c$d" | nc localhost 30002 -w 1 2>&1 >> output.log &; done; done; done; done
+
+
+
+for a in {0..9}; do for b in {0..9}; do for c in {0..9}; do for d in {0..9}; do echo "echo 'UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $a$b$c$d' | nc localhost 30002 -w 1 2>&1 >> /var/spool/bandit24/servetoo/log/$a$b$c$d.txt &" >> thelist.txt; done; done; done; done
+
+
+
+
+IFS=$'\n';for line in `cat thelist.txt`; do command ${line} > ${line}; done
+IFS=$'\n';for line in `cat thelist.txt`; do command ${line}; done
+
+
+/bin/bash << EOF
+big ugly commands
+lots of them
+EOF
+
+
+ssh bandit26@localhost -i bandit26.sshkey /bin/bash << EOF
+cat text.txt
+EOF![image](https://user-images.githubusercontent.com/73688531/140619018-301ba479-fb90-4b67-a3b4-f6bf96eca0da.png)
+
