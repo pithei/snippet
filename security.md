@@ -18,6 +18,9 @@ Tools to obtain | Accounts (email, cisco devnet, github) <br /> [Ubuntu desktop 
 - practice minimum 20 hours
 - spaced repetition
 
+## Practice
+- [Over The Wire Wargames](https://overthewire.org/wargames/)
+
 ## Notes
 
 ```bash
