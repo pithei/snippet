@@ -11,6 +11,7 @@ Tools to obtain | Accounts (email, cisco devnet, github) <br /> [Ubuntu desktop 
 ```bash
    # comment
    echo "hi"
+//
 
 ## Tips
 - Eliminate any barrier
