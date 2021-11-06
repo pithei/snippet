@@ -2,7 +2,7 @@
 Key | Value
 ---- | ----
 Target level | Generic understanding
-Learning Sources | [Android Security](https://github.com/ashishb/android-security-awesome)
+Learning Sources | [Exam Blueprint](https://developer.cisco.com/certification/exam-topic-associate/)
 Skill list | a b c
 Task list | task a task b
 Daily time slot | time
