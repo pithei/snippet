@@ -2,8 +2,8 @@
 Key | Value
 ---- | ----
 Target level | Generic understanding
-Learning Sources | JPT > WAPT > OSCP. CPPT <br /> https://www.sans.org/cyber-security-skills-roadmap/ <br />https://elearnsecurity.com/product/ejpt-certification/
-Skill list | git <br /> python <br /> linux <br /> networking <br /> https://github.com/sundowndev/hacker-roadmap <br /> https://onlinedegrees.sandiego.edu/top-cyber-security-blogs-websites/ <br />
+Learning Sources | JPT > WAPT > OSCP. CPPT <br /> https://www.sans.org/cyber-security-skills-roadmap/ <br />https://elearnsecurity.com/product/ejpt-certification/ <br /> https://github.com/sundowndev/hacker-roadmap <br /> https://onlinedegrees.sandiego.edu/top-cyber-security-blogs-websites/ <br />
+Skill list | git <br /> python <br /> linux <br /> networking 
 Task list | YAML device Inventory <br /> Base config verification with ansible <br />
 Daily time slot | time
 Tools to obtain | Accounts (email, cisco devnet, github) <br /> [Ubuntu desktop VM](https://github.com/pithei/py100/blob/master/6_cisco_devnet/001_ubuntu_prep.txt) <br /> Git <br /> Postman <br /> Python <br /> Docker <br /> VSCode <br />
