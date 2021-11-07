@@ -1,6 +1,5 @@
 ## Summary
 
-
 level | URL | port | login | pass | Notes
 ---- | ---- | ---- | ---- | ---- | ----
 0 | bandit.labs.overthewire.org | 2220 | bandit0 | bandit0 | [bandit 0](https://overthewire.org/wargames/bandit/bandit1.html) |
@@ -12,6 +11,7 @@ level | URL | port | login | pass | Notes
 6 | bandit.labs.overthewire.org | 2220 | bandit6 | DXjZPULLxYr17uwoI01bNLQbtFemEgo7 | [bandit 6](https://overthewire.org/wargames/bandit/bandit7.html) |
 7 | bandit.labs.overthewire.org | 2220 | bandit7 | HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs | [bandit 7](https://overthewire.org/wargames/bandit/bandit8.html) |
 8 | bandit.labs.overthewire.org | 2220 | bandit8 | cvX2JJa4CFALtqS87jk27qwqGhBM9plV | [bandit 8](https://overthewire.org/wargames/bandit/bandit9.html) |
+9 | bandit.labs.overthewire.org | 2220 | bandit9 | UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR | [bandit 9](https://overthewire.org/wargames/bandit/bandit10.html) |
 
 ## Level 0
 
@@ -128,4 +128,11 @@ bandit6@bandit:~$
 andit7@bandit:~$ grep millionth data.txt
 millionth       cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 bandit7@bandit:~$
+```
+
+## Level 8
+```bash
+bandit8@bandit:~$ cat data.txt | sort | uniq -c | grep -i "1 "
+      1 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+bandit8@bandit:~$
 ```
