@@ -27,6 +27,14 @@ level | URL | port | login | pass | Notes
 22 | bandit.labs.overthewire.org | 2220 | bandit22 | Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI | [bandit 22](https://overthewire.org/wargames/bandit/bandit23.html) |
 23 | bandit.labs.overthewire.org | 2220 | bandit23 | jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n | [bandit 23](https://overthewire.org/wargames/bandit/bandit24.html) |
 24 | bandit.labs.overthewire.org | 2220 | bandit24 | UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ | [bandit 24](https://overthewire.org/wargames/bandit/bandit25.html) |
+25 | bandit.labs.overthewire.org | 2220 | bandit25 |  | [bandit 25](https://overthewire.org/wargames/bandit/bandit26.html) |
+26 | bandit.labs.overthewire.org | 2220 | bandit26 |  | [bandit 26](https://overthewire.org/wargames/bandit/bandit27.html) |
+27 | bandit.labs.overthewire.org | 2220 | bandit27 |  | [bandit 27](https://overthewire.org/wargames/bandit/bandit28.html) |
+28 | bandit.labs.overthewire.org | 2220 | bandit28 |  | [bandit 28](https://overthewire.org/wargames/bandit/bandit29.html) |
+29 | bandit.labs.overthewire.org | 2220 | bandit29 |  | [bandit 29](https://overthewire.org/wargames/bandit/bandit30.html) |
+30 | bandit.labs.overthewire.org | 2220 | bandit30 |  | [bandit 30](https://overthewire.org/wargames/bandit/bandit31.html) |
+31 | bandit.labs.overthewire.org | 2220 | bandit31 |  | [bandit 31](https://overthewire.org/wargames/bandit/bandit32.html) |
+32 | bandit.labs.overthewire.org | 2220 | bandit33 |  | [bandit 32](https://overthewire.org/wargames/bandit/bandit33.html) |
 
 
 ## Level 0
