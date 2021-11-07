@@ -12,6 +12,8 @@ level | URL | port | login | pass | Notes
 7 | bandit.labs.overthewire.org | 2220 | bandit7 | HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs | [bandit 7](https://overthewire.org/wargames/bandit/bandit8.html) |
 8 | bandit.labs.overthewire.org | 2220 | bandit8 | cvX2JJa4CFALtqS87jk27qwqGhBM9plV | [bandit 8](https://overthewire.org/wargames/bandit/bandit9.html) |
 9 | bandit.labs.overthewire.org | 2220 | bandit9 | UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR | [bandit 9](https://overthewire.org/wargames/bandit/bandit10.html) |
+10 | bandit.labs.overthewire.org | 2220 | bandit10 | truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk | [bandit 10](https://overthewire.org/wargames/bandit/bandit11.html) |
+
 
 ## Level 0
 
@@ -136,3 +138,14 @@ bandit8@bandit:~$ cat data.txt | sort | uniq -c | grep -i "1 "
       1 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 bandit8@bandit:~$
 ```
+
+## Level 9
+```bash
+bandit9@bandit:~$ strings data.txt | grep -E '=='
+========== the*2i"4
+========== password
+Z)========== is
+&========== truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+bandit9@bandit:~$
+```
+
