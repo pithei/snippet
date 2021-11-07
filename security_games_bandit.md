@@ -23,6 +23,7 @@ level | URL | port | login | pass | Notes
 18 | localhost_bandit16 | 2220 | bandit18 | kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd | [bandit 18](https://overthewire.org/wargames/bandit/bandit19.html) |
 19 | bandit.labs.overthewire.org | 2220 | bandit19 | IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x | [bandit 19](https://overthewire.org/wargames/bandit/bandit20.html) |
 20 | bandit.labs.overthewire.org | 2220 | bandit20 | GbKksEFF4yrVs6il55v6gwY5aVje5f0j | [bandit 20](https://overthewire.org/wargames/bandit/bandit21.html) |
+21 | bandit.labs.overthewire.org | 2220 | bandit21 | gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr | [bandit 21](https://overthewire.org/wargames/bandit/bandit22.html) |
 
 
 ## Level 0
