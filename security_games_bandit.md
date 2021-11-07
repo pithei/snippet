@@ -316,3 +316,23 @@ bandit16@bandit:/tmp/pithei16$ chmod 600 private.key
 bandit16@bandit:/tmp/pithei16$ ssh -i private.key bandit17@localhost
 ```
 
+## Level 17
+```bash
+bandit17@bandit:~$ ls -al
+total 36
+drwxr-xr-x  3 root     root     4096 Jul 11  2020 .
+drwxr-xr-x 41 root     root     4096 May  7  2020 ..
+-rw-r-----  1 bandit17 bandit17   33 Jul 11  2020 .bandit16.password
+-rw-r--r--  1 root     root      220 May 15  2017 .bash_logout
+-rw-r--r--  1 root     root     3526 May 15  2017 .bashrc
+-rw-r-----  1 bandit18 bandit17 3300 May  7  2020 passwords.new
+-rw-r-----  1 bandit18 bandit17 3300 May  7  2020 passwords.old
+-rw-r--r--  1 root     root      675 May 15  2017 .profile
+drwxr-xr-x  2 root     root     4096 Jul 11  2020 .ssh
+bandit17@bandit:~$ diff passwords.new passwords.old
+42c42
+< kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+---
+> w0Yfolrc5bwjS4qw5mq1nnQi6mF03bii
+bandit17@bandit:~$
+```
