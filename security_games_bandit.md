@@ -18,6 +18,7 @@ level | URL | port | login | pass | Notes
 13 | bandit.labs.overthewire.org | 2220 | bandit13 | 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL | [bandit 13](https://overthewire.org/wargames/bandit/bandit14.html) |
 14 | bandit.labs.overthewire.org | 2220 | bandit14 | 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e | [bandit 14](https://overthewire.org/wargames/bandit/bandit15.html) |
 15 | bandit.labs.overthewire.org | 2220 | bandit15 | BfMYroe26WYalil77FoDi9qh59eK5xNr | [bandit 15](https://overthewire.org/wargames/bandit/bandit16.html) |
+16 | bandit.labs.overthewire.org | 2220 | bandit15 | cluFn7wTiGryunymYOu4RcffSxQluehd | [bandit 16](https://overthewire.org/wargames/bandit/bandit17.html) |
 
 
 ## Level 0
@@ -244,3 +245,14 @@ BfMYroe26WYalil77FoDi9qh59eK5xNr
 bandit14@bandit:~$
 ```
 
+## Level 15
+```bash
+bandit15@bandit:~$ echo "BfMYroe26WYalil77FoDi9qh59eK5xNr" | openssl s_client -connect localhost:30001 -ign_eof
+#### < output ommited >
+---
+Correct!
+cluFn7wTiGryunymYOu4RcffSxQluehd
+
+closed
+bandit15@bandit:~$
+```
