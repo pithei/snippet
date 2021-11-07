@@ -14,6 +14,7 @@ level | URL | port | login | pass | Notes
 9 | bandit.labs.overthewire.org | 2220 | bandit9 | UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR | [bandit 9](https://overthewire.org/wargames/bandit/bandit10.html) |
 10 | bandit.labs.overthewire.org | 2220 | bandit10 | truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk | [bandit 10](https://overthewire.org/wargames/bandit/bandit11.html) |
 11 | bandit.labs.overthewire.org | 2220 | bandit11 | IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR | [bandit 11](https://overthewire.org/wargames/bandit/bandit12.html) |
+12 | bandit.labs.overthewire.org | 2220 | bandit12 | 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu | [bandit 12](https://overthewire.org/wargames/bandit/bandit13.html) |
 
 
 ## Level 0
@@ -155,4 +156,12 @@ bandit9@bandit:~$
 bandit10@bandit:~$ cat data.txt | base64 -d
 The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 bandit10@bandit:~$
+```
+
+## Level 11
+```bash
+# https://en.wikipedia.org/wiki/ROT13
+bandit11@bandit:~$ cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+bandit11@bandit:~$
 ```
