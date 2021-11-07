@@ -3,8 +3,8 @@
 
 level | URL | port | login | pass | Notes
 ---- | ---- | ---- | ---- | ---- | ----
-0 | bandit.labs.overthewire.org | 2220 | bandit0 | bandit0 | [bandit 0 link](https://overthewire.org/wargames/bandit/bandit0.html) |
-1 | bandit.labs.overthewire.org | 2220 | bandit1 | boJ9jbbUNNfktd78OOpsqOltutMc3MY1 | [bandit 0 link](https://overthewire.org/wargames/bandit/bandit1.html) |
+0 | bandit.labs.overthewire.org | 2220 | bandit0 | bandit0 | [bandit 0](https://overthewire.org/wargames/bandit/bandit0.html) |
+1 | bandit.labs.overthewire.org | 2220 | bandit1 | boJ9jbbUNNfktd78OOpsqOltutMc3MY1 | [bandit 1](https://overthewire.org/wargames/bandit/bandit1.html) |
 
 
 ## Level 0
