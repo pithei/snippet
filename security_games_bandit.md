@@ -20,6 +20,7 @@ level | URL | port | login | pass | Notes
 15 | bandit.labs.overthewire.org | 2220 | bandit15 | BfMYroe26WYalil77FoDi9qh59eK5xNr | [bandit 15](https://overthewire.org/wargames/bandit/bandit16.html) |
 16 | bandit.labs.overthewire.org | 2220 | bandit16 | cluFn7wTiGryunymYOu4RcffSxQluehd | [bandit 16](https://overthewire.org/wargames/bandit/bandit17.html) |
 17 | localhost | 2220 | bandit17 | private key from tls service in lvl 16 | [bandit 17](https://overthewire.org/wargames/bandit/bandit18.html) |
+18 | bandit.labs.overthewire.org | 2220 | bandit18 | kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd | [bandit 18](https://overthewire.org/wargames/bandit/bandit19.html) |
 
 
 ## Level 0
