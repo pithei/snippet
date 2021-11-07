@@ -11,7 +11,7 @@ level | URL | port | login | pass | Notes
 5 | bandit.labs.overthewire.org | 2220 | bandit5 | koReBOKuIDDepwhWk7jZC0RTdopnAYKh | [bandit 5](https://overthewire.org/wargames/bandit/bandit6.html) |
 6 | bandit.labs.overthewire.org | 2220 | bandit6 | DXjZPULLxYr17uwoI01bNLQbtFemEgo7 | [bandit 6](https://overthewire.org/wargames/bandit/bandit7.html) |
 7 | bandit.labs.overthewire.org | 2220 | bandit7 | HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs | [bandit 7](https://overthewire.org/wargames/bandit/bandit8.html) |
-
+7 | bandit.labs.overthewire.org | 2220 | bandit8 | cvX2JJa4CFALtqS87jk27qwqGhBM9plV | [bandit 8](https://overthewire.org/wargames/bandit/bandit9.html) |
 
 ## Level 0
 
@@ -121,4 +121,11 @@ bandit6@bandit:~$ find / -user bandit7 -group bandit6 2>/dev/null
 bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 bandit6@bandit:~$
+```
+
+## Level 7
+```bash
+andit7@bandit:~$ grep millionth data.txt
+millionth       cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+bandit7@bandit:~$
 ```
