@@ -10,7 +10,7 @@ level | URL | port | login | pass | Notes
 4 | bandit.labs.overthewire.org | 2220 | bandit4 | pIwrPrtPN36QITSp3EQaw936yaFoFgAB | [bandit 4](https://overthewire.org/wargames/bandit/bandit5.html) |
 5 | bandit.labs.overthewire.org | 2220 | bandit5 | koReBOKuIDDepwhWk7jZC0RTdopnAYKh | [bandit 5](https://overthewire.org/wargames/bandit/bandit6.html) |
 6 | bandit.labs.overthewire.org | 2220 | bandit6 | DXjZPULLxYr17uwoI01bNLQbtFemEgo7 | [bandit 6](https://overthewire.org/wargames/bandit/bandit7.html) |
-7 | bandit.labs.overthewire.org | 2220 | bandit7 | HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs | [bandit 3](https://overthewire.org/wargames/bandit/bandit8.html) |
+7 | bandit.labs.overthewire.org | 2220 | bandit7 | HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs | [bandit 7](https://overthewire.org/wargames/bandit/bandit8.html) |
 
 
 ## Level 0
