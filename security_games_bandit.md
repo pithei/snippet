@@ -24,7 +24,8 @@ level | URL | port | login | pass | Notes
 19 | bandit.labs.overthewire.org | 2220 | bandit19 | IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x | [bandit 19](https://overthewire.org/wargames/bandit/bandit20.html) |
 20 | bandit.labs.overthewire.org | 2220 | bandit20 | GbKksEFF4yrVs6il55v6gwY5aVje5f0j | [bandit 20](https://overthewire.org/wargames/bandit/bandit21.html) |
 21 | bandit.labs.overthewire.org | 2220 | bandit21 | gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr | [bandit 21](https://overthewire.org/wargames/bandit/bandit22.html) |
-22 | bandit.labs.overthewire.org | 2220 | bandit22 | Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI | [bandit 21](https://overthewire.org/wargames/bandit/bandit23.html) |
+22 | bandit.labs.overthewire.org | 2220 | bandit22 | Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI | [bandit 22](https://overthewire.org/wargames/bandit/bandit23.html) |
+23 | bandit.labs.overthewire.org | 2220 | bandit23 | jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n | [bandit 23](https://overthewire.org/wargames/bandit/bandit24.html) |
 
 
 ## Level 0
@@ -415,3 +416,38 @@ Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
 bandit21@bandit:~$
 ```
 
+## Level 22
+```bash
+bandit22@bandit:~$ ls -al  /etc/cron.d/
+total 36
+drwxr-xr-x  2 root root 4096 Jul 11  2020 .
+drwxr-xr-x 87 root root 4096 May 14  2020 ..
+-rw-r--r--  1 root root   62 May 14  2020 cronjob_bandit15_root
+-rw-r--r--  1 root root   62 Jul 11  2020 cronjob_bandit17_root
+-rw-r--r--  1 root root  120 May  7  2020 cronjob_bandit22
+-rw-r--r--  1 root root  122 May  7  2020 cronjob_bandit23
+-rw-r--r--  1 root root  120 May 14  2020 cronjob_bandit24
+-rw-r--r--  1 root root   62 May 14  2020 cronjob_bandit25_root
+-rw-r--r--  1 root root  102 Oct  7  2017 .placeholder
+bandit22@bandit:~$ cat /etc/cron.d
+cron.d/     cron.daily/
+bandit22@bandit:~$ cat /etc/cron.d/cronjob_bandit23
+@reboot bandit23 /usr/bin/cronjob_bandit23.sh  &> /dev/null
+* * * * * bandit23 /usr/bin/cronjob_bandit23.sh  &> /dev/null
+bandit22@bandit:~$ cat /usr/bin/cronjob_bandit23.sh
+#!/bin/bash
+
+myname=$(whoami)
+mytarget=$(echo I am user $myname | md5sum | cut -d ' ' -f 1)
+
+echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget"
+
+cat /etc/bandit_pass/$myname > /tmp/$mytarget
+bandit22@bandit:~$ myname=bandit23
+bandit22@bandit:~$ mytarget=$(echo I am user $myname | md5sum | cut -d ' ' -f 1)
+bandit22@bandit:~$ echo $mytarget
+8ca319486bfbbc3663ea0fbe81326349
+bandit22@bandit:~$ cat /tmp/8ca319486bfbbc3663ea0fbe81326349
+jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
+bandit22@bandit:~$
+```
