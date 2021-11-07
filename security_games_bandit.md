@@ -8,6 +8,7 @@ level | URL | port | login | pass | Notes
 2 | bandit.labs.overthewire.org | 2220 | bandit2 | CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 | [bandit 2](https://overthewire.org/wargames/bandit/bandit3.html) |
 3 | bandit.labs.overthewire.org | 2220 | bandit3 | UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK | [bandit 3](https://overthewire.org/wargames/bandit/bandit4.html) |
 4 | bandit.labs.overthewire.org | 2220 | bandit4 | pIwrPrtPN36QITSp3EQaw936yaFoFgAB | [bandit 4](https://overthewire.org/wargames/bandit/bandit5.html) |
+5 | bandit.labs.overthewire.org | 2220 | bandit5 | koReBOKuIDDepwhWk7jZC0RTdopnAYKh | [bandit 5](https://overthewire.org/wargames/bandit/bandit6.html) |
 
 
 ## Level 0
@@ -47,4 +48,25 @@ drwxr-xr-x 3 root    root    4096 May  7  2020 ..
 bandit3@bandit:~/inhere$ cat .hidden
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 bandit3@bandit:~/inhere$
+```
+
+## Level 4 
+```bash
+bandit4@bandit:~$ ls
+inhere
+bandit4@bandit:~$ find inhere/ -type f -exec file {} \;
+inhere/-file01: data
+inhere/-file00: data
+inhere/-file06: data
+inhere/-file03: data
+inhere/-file05: data
+inhere/-file08: data
+inhere/-file04: data
+inhere/-file07: ASCII text
+inhere/-file02: data
+inhere/-file09: data
+bandit4@bandit:~$
+bandit4@bandit:~$ cat inhere/-file07
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+bandit4@bandit:~$
 ```
