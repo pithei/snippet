@@ -1,4 +1,4 @@
-## Summary
+## Summary, https://overthewire.org/wargames/bandit/
 
 level | URL | port | login | pass | Notes
 ---- | ---- | ---- | ---- | ---- | ----
