@@ -17,6 +17,7 @@ level | URL | port | login | pass | Notes
 12 | bandit.labs.overthewire.org | 2220 | bandit12 | 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu | [bandit 12](https://overthewire.org/wargames/bandit/bandit13.html) |
 13 | bandit.labs.overthewire.org | 2220 | bandit13 | 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL | [bandit 13](https://overthewire.org/wargames/bandit/bandit14.html) |
 14 | bandit.labs.overthewire.org | 2220 | bandit14 | 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e | [bandit 14](https://overthewire.org/wargames/bandit/bandit15.html) |
+15 | bandit.labs.overthewire.org | 2220 | bandit15 | BfMYroe26WYalil77FoDi9qh59eK5xNr | [bandit 15](https://overthewire.org/wargames/bandit/bandit16.html) |
 
 
 ## Level 0
@@ -223,7 +224,7 @@ The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 bandit12@bandit:/tmp/pithei$
 ```
 
-## Level 11
+## Level 13
 ```bash
 bandit13@bandit:~$ ls
 sshkey.private
@@ -231,6 +232,15 @@ bandit13@bandit:~$ ssh -i sshkey.private bandit14@localhost
 #### < output ommited >
 bandit14@bandit:~$ cat  /etc/bandit_pass/bandit14
 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+bandit14@bandit:~$
+```
+
+## Level 14
+```bash
+bandit14@bandit:~$ echo 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e | nc localhost 30000
+Correct!
+BfMYroe26WYalil77FoDi9qh59eK5xNr
+
 bandit14@bandit:~$
 ```
 
