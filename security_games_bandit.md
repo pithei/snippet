@@ -359,3 +359,31 @@ bandit19@bandit:~$ ./bandit20-do cat /etc/bandit_pass/bandit20
 GbKksEFF4yrVs6il55v6gwY5aVje5f0j
 bandit19@bandit:~$
 ```
+
+## Level 20
+```bash
+# lauhc screen
+# create two windows, ^C ^C
+# netcat on first screen
+bandit20@bandit:~$ nc -l -p 2000
+
+
+# switch to second screen ^+SHIF+D
+# Launch suid app
+bandit20@bandit:~$ ./suconnect 2000
+Read: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+Password matches, sending next password
+bandit20@bandit:~$
+
+# switch back to first screen ^+SHIF+D and enter the password
+bandit20@bandit:~$ nc -l -p 2000
+GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+bandit20@bandit:~$
+
+# switch back to second screen ^+SHIF+D to check app status
+bandit20@bandit:~$ ./suconnect 2000
+Read: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+Password matches, sending next password
+bandit20@bandit:~$
+```
