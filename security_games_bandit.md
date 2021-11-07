@@ -9,6 +9,7 @@ level | URL | port | login | pass | Notes
 3 | bandit.labs.overthewire.org | 2220 | bandit3 | UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK | [bandit 3](https://overthewire.org/wargames/bandit/bandit4.html) |
 4 | bandit.labs.overthewire.org | 2220 | bandit4 | pIwrPrtPN36QITSp3EQaw936yaFoFgAB | [bandit 4](https://overthewire.org/wargames/bandit/bandit5.html) |
 5 | bandit.labs.overthewire.org | 2220 | bandit5 | koReBOKuIDDepwhWk7jZC0RTdopnAYKh | [bandit 5](https://overthewire.org/wargames/bandit/bandit6.html) |
+6 | bandit.labs.overthewire.org | 2220 | bandit6 | DXjZPULLxYr17uwoI01bNLQbtFemEgo7 | [bandit 6](https://overthewire.org/wargames/bandit/bandit7.html) |
 
 
 ## Level 0
@@ -69,4 +70,38 @@ bandit4@bandit:~$
 bandit4@bandit:~$ cat inhere/-file07
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 bandit4@bandit:~$
+```
+## Level 5
+```bash
+bandit5@bandit:~$ ls inhere/ -al
+total 88
+drwxr-x--- 22 root bandit5 4096 May  7  2020 .
+drwxr-xr-x  3 root root    4096 May  7  2020 ..
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere00
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere01
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere02
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere03
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere04
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere05
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere06
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere07
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere08
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere09
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere10
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere11
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere12
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere13
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere14
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere15
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere16
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere17
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere18
+drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere19
+bandit5@bandit:~$ find inhere/ | wc -l
+201
+bandit5@bandit:~$ find ./ -type f -size 1033c
+./inhere/maybehere07/.file2
+bandit5@bandit:~$ cat ./inhere/maybehere07/.file2
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        bandit5@bandit:~$
 ```
