@@ -13,6 +13,7 @@ level | URL | port | login | pass | Notes
 8 | bandit.labs.overthewire.org | 2220 | bandit8 | cvX2JJa4CFALtqS87jk27qwqGhBM9plV | [bandit 8](https://overthewire.org/wargames/bandit/bandit9.html) |
 9 | bandit.labs.overthewire.org | 2220 | bandit9 | UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR | [bandit 9](https://overthewire.org/wargames/bandit/bandit10.html) |
 10 | bandit.labs.overthewire.org | 2220 | bandit10 | truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk | [bandit 10](https://overthewire.org/wargames/bandit/bandit11.html) |
+11 | bandit.labs.overthewire.org | 2220 | bandit11 | IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR | [bandit 11](https://overthewire.org/wargames/bandit/bandit12.html) |
 
 
 ## Level 0
@@ -149,3 +150,9 @@ Z)========== is
 bandit9@bandit:~$
 ```
 
+## Level 10
+```bash
+bandit10@bandit:~$ cat data.txt | base64 -d
+The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+bandit10@bandit:~$
+```
