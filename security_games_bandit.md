@@ -15,6 +15,7 @@ level | URL | port | login | pass | Notes
 10 | bandit.labs.overthewire.org | 2220 | bandit10 | truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk | [bandit 10](https://overthewire.org/wargames/bandit/bandit11.html) |
 11 | bandit.labs.overthewire.org | 2220 | bandit11 | IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR | [bandit 11](https://overthewire.org/wargames/bandit/bandit12.html) |
 12 | bandit.labs.overthewire.org | 2220 | bandit12 | 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu | [bandit 12](https://overthewire.org/wargames/bandit/bandit13.html) |
+13 | bandit.labs.overthewire.org | 2220 | bandit13 | 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL | [bandit 13](https://overthewire.org/wargames/bandit/bandit14.html) |
 
 
 ## Level 0
@@ -169,3 +170,55 @@ bandit11@bandit:~$ cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 bandit11@bandit:~$
 ```
+
+## Level 12
+```bash
+bandit12@bandit:~$ mkdir /tmp/pithei
+bandit12@bandit:~$ cp data.txt /tmp/pithei
+bandit12@bandit:~$ cd /tmp/pithei
+bandit12@bandit:/tmp/pithei$ ls
+data.txt
+bandit12@bandit:/tmp/pithei$ xxd -r data.txt a.tar
+bandit12@bandit:/tmp/pithei$ file a.tar
+a.tar: gzip compressed data, was "data2.bin", last modified: Thu May  7 18:14:30 2020, max compression, from Unix
+bandit12@bandit:/tmp/pithei$ mv a.tar a.gz
+bandit12@bandit:/tmp/pithei$ gunzip a.gz
+
+gzip: a.gz: decompression OK, trailing garbage ignored
+bandit12@bandit:/tmp/pithei$ file a
+a: bzip2 compressed data, block size = 900k
+bandit12@bandit:/tmp/pithei$ bunzip2 a
+bunzip2: Can't guess original name for a -- using a.out
+bandit12@bandit:/tmp/pithei$ file a.out
+a.out: gzip compressed data, was "data4.bin", last modified: Thu May  7 18:14:30 2020, max compression, from Unix
+bandit12@bandit:/tmp/pithei$ mv a.out a.gz
+bandit12@bandit:/tmp/pithei$ gunzip a.gz
+bandit12@bandit:/tmp/pithei$ file a
+a: POSIX tar archive (GNU)
+bandit12@bandit:/tmp/pithei$ tar xvpf a
+data5.bin
+bandit12@bandit:/tmp/pithei$ file data5.bin
+data5.bin: POSIX tar archive (GNU)
+bandit12@bandit:/tmp/pithei$ tar xvpf data5.bin
+data6.bin
+bandit12@bandit:/tmp/pithei$ file data6.bin
+data6.bin: bzip2 compressed data, block size = 900k
+bandit12@bandit:/tmp/pithei$ bunzip2 data6.bin
+bunzip2: Can't guess original name for data6.bin -- using data6.bin.out
+bandit12@bandit:/tmp/pithei$ file  data6.bin.out
+data6.bin.out: POSIX tar archive (GNU)
+bandit12@bandit:/tmp/pithei$ tar xvpf data6.bin.out
+data8.bin
+bandit12@bandit:/tmp/pithei$ file data8.bin
+data8.bin: gzip compressed data, was "data9.bin", last modified: Thu May  7 18:14:30 2020, max compression, from Unix
+bandit12@bandit:/tmp/pithei$ gunzip data8.bin
+gzip: data8.bin: unknown suffix -- ignored
+bandit12@bandit:/tmp/pithei$ mv data8.bin data8.gz
+bandit12@bandit:/tmp/pithei$ gunzip data8.gz
+bandit12@bandit:/tmp/pithei$ file data8
+data8: ASCII text
+bandit12@bandit:/tmp/pithei$ cat data8
+The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+bandit12@bandit:/tmp/pithei$
+```
+
