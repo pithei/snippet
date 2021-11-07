@@ -20,7 +20,8 @@ level | URL | port | login | pass | Notes
 15 | bandit.labs.overthewire.org | 2220 | bandit15 | BfMYroe26WYalil77FoDi9qh59eK5xNr | [bandit 15](https://overthewire.org/wargames/bandit/bandit16.html) |
 16 | bandit.labs.overthewire.org | 2220 | bandit16 | cluFn7wTiGryunymYOu4RcffSxQluehd | [bandit 16](https://overthewire.org/wargames/bandit/bandit17.html) |
 17 | localhost | 2220 | bandit17 | private key from tls service in lvl 16 | [bandit 17](https://overthewire.org/wargames/bandit/bandit18.html) |
-18 | bandit.labs.overthewire.org | 2220 | bandit18 | kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd | [bandit 18](https://overthewire.org/wargames/bandit/bandit19.html) |
+18 | localhost_bandit16 | 2220 | bandit18 | kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd | [bandit 18](https://overthewire.org/wargames/bandit/bandit19.html) |
+19 | bandit.labs.overthewire.org | 2220 | bandit19 | IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x | [bandit 19](https://overthewire.org/wargames/bandit/bandit20.html) |
 
 
 ## Level 0
@@ -336,4 +337,17 @@ bandit17@bandit:~$ diff passwords.new passwords.old
 ---
 > w0Yfolrc5bwjS4qw5mq1nnQi6mF03bii
 bandit17@bandit:~$
+```
+
+## Level 18
+```bash
+bandit16@bandit:/tmp/pithei16$ ssh -t bandit18@localhost bash --norc --noprofile
+bandit18@localhost's password:
+bash-4.4$ ls
+readme
+bash-4.4$ pwd
+/home/bandit18
+bash-4.4$ cat readme
+IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+bash-4.4$
 ```
