@@ -22,6 +22,7 @@ level | URL | port | login | pass | Notes
 17 | localhost | 2220 | bandit17 | private key from tls service in lvl 16 | [bandit 17](https://overthewire.org/wargames/bandit/bandit18.html) |
 18 | localhost_bandit16 | 2220 | bandit18 | kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd | [bandit 18](https://overthewire.org/wargames/bandit/bandit19.html) |
 19 | bandit.labs.overthewire.org | 2220 | bandit19 | IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x | [bandit 19](https://overthewire.org/wargames/bandit/bandit20.html) |
+20 | bandit.labs.overthewire.org | 2220 | bandit20 | GbKksEFF4yrVs6il55v6gwY5aVje5f0j | [bandit 20](https://overthewire.org/wargames/bandit/bandit21.html) |
 
 
 ## Level 0
@@ -350,4 +351,11 @@ bash-4.4$ pwd
 bash-4.4$ cat readme
 IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
 bash-4.4$
+```
+
+## Level 19
+```bash
+bandit19@bandit:~$ ./bandit20-do cat /etc/bandit_pass/bandit20
+GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+bandit19@bandit:~$
 ```
