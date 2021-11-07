@@ -256,3 +256,23 @@ cluFn7wTiGryunymYOu4RcffSxQluehd
 closed
 bandit15@bandit:~$
 ```
+
+## Level 16
+```bash
+bandit16@bandit:~$ nmap -p  31000-32000 localhost
+
+Starting Nmap 7.40 ( https://nmap.org ) at 2021-11-07 04:22 CET
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00027s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+31046/tcp open  unknown
+31518/tcp open  unknown
+31691/tcp open  unknown
+31790/tcp open  unknown
+31960/tcp open  unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 0.09 seconds
+bandit16@bandit:~$
+```
+
