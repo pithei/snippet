@@ -24,6 +24,7 @@ level | URL | port | login | pass | Notes
 19 | bandit.labs.overthewire.org | 2220 | bandit19 | IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x | [bandit 19](https://overthewire.org/wargames/bandit/bandit20.html) |
 20 | bandit.labs.overthewire.org | 2220 | bandit20 | GbKksEFF4yrVs6il55v6gwY5aVje5f0j | [bandit 20](https://overthewire.org/wargames/bandit/bandit21.html) |
 21 | bandit.labs.overthewire.org | 2220 | bandit21 | gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr | [bandit 21](https://overthewire.org/wargames/bandit/bandit22.html) |
+22 | bandit.labs.overthewire.org | 2220 | bandit22 | Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI | [bandit 21](https://overthewire.org/wargames/bandit/bandit23.html) |
 
 
 ## Level 0
@@ -388,3 +389,29 @@ Read: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
 Password matches, sending next password
 bandit20@bandit:~$
 ```
+
+## Level 21
+```bash
+bandit21@bandit:~$ ls /etc/cron.d/ -al
+total 36
+drwxr-xr-x  2 root root 4096 Jul 11  2020 .
+drwxr-xr-x 87 root root 4096 May 14  2020 ..
+-rw-r--r--  1 root root   62 May 14  2020 cronjob_bandit15_root
+-rw-r--r--  1 root root   62 Jul 11  2020 cronjob_bandit17_root
+-rw-r--r--  1 root root  120 May  7  2020 cronjob_bandit22
+-rw-r--r--  1 root root  122 May  7  2020 cronjob_bandit23
+-rw-r--r--  1 root root  120 May 14  2020 cronjob_bandit24
+-rw-r--r--  1 root root   62 May 14  2020 cronjob_bandit25_root
+-rw-r--r--  1 root root  102 Oct  7  2017 .placeholder
+bandit21@bandit:~$ cat /etc/cron.d/cronjob_bandit22
+@reboot bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
+* * * * * bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
+bandit21@bandit:~$ cat /usr/bin/cronjob_bandit22.sh
+#!/bin/bash
+chmod 644 /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+bandit21@bandit:~$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+bandit21@bandit:~$
+```
+
