@@ -1,3 +1,4 @@
+```bash
 DEVNET Workstation
 # https://developer.cisco.com/learning/lab/containers-dev-ubuntu/step/7
 # Create gmail account for devel and sso to postman etc
@@ -195,3 +196,4 @@ docker ps -a
 
 docker run --privileged -it -p 8000:8000 -p 8443:8443 ciscodevnet/vs-code-iox-client:latest
 http://127.0.0.1:8443
+```
