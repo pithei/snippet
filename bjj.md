@@ -21,12 +21,12 @@ Tools to obtain | Gi <br />
 ## Notes
 
 ### Phases
-Phase | Technique | Notes 
----- | ----| ----
-Closing the distance | | Clinch
-Taking the fight to the ground | | Leg trips,  <br />Hip tosses,  <br />Upper body Takedowns,  <br />Lower body takedowns <br />
-Achieving a dominant position | Guard <br /> Side control <br /> Mount <br /> Back <br /> |
-Finishing the fight | Chokes <br /> Joint Locks <br /> | Submissions
+No |Phase | Technique | Notes 
+---- | ---- | ----| ----
+1 | Closing the distance | | Clinch
+2 | Taking the fight to the ground | | Leg trips,  <br />Hip tosses,  <br />Upper body Takedowns,  <br />Lower body takedowns <br />
+3 | Achieving a dominant position | Guard <br /> Side control <br /> Mount <br /> Back <br /> |
+4 | Finishing the fight | Chokes <br /> Joint Locks <br /> | Submissions
 
 ### Basic Positions
 Position | Attack | Escape | Setup | Notes 
