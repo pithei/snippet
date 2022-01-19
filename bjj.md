@@ -21,12 +21,12 @@ Tools to obtain | Gi <br />
 ## Notes
 
 ### Phases
-Phase | Tool | Notes 
+Phase | Technique | Notes 
 ---- | ----| ----
-Closing the distance | |
-3:32 taking the fight to the ground | |
-4:38 achieving a dominant position | |
-8:32 finishing the fight | |
+Closing the distance | | Clinch
+Taking the fight to the ground | | Takedowns, sweeps
+Achieving a dominant position | |
+Finishing the fight | | Submissions
 
 ### Basic Positions
 Position | Attack | Escape | Setup | Notes 
