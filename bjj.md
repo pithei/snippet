@@ -2,7 +2,15 @@
 Key | Value
 ---- | ----
 Target level | 2 actions in any position
-Learning Sources | TBD
+Learning Sources | Knight Jiu Jitsu: https://www.youtube.com/channel/UCDaSNu2fM3JL4VdlSwcFtOw
+
+Grappling Academy: https://www.youtube.com/channel/UCA5inPIH7dvYLAcAg5Wt8mg
+
+Lachlan Giles: https://www.youtube.com/channel/UCVX5F9uZyzzSI9juQRp_2Hw
+
+Stephan Kesting: https://www.youtube.com/user/StephanKesting
+
+General Strength & Conditioning: https://www.youtube.com/channel/UCe0TLA0EsQbE-MjuHXevj2A
 Skill list | Positions <br /> Mounts <br /> Chokes <br /> Escapes <br /> Setups <br /> 
 Task list | none
 Daily time slot | time
