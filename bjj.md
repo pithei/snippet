@@ -1,9 +1,9 @@
 ## BJJ journey 2021.10.01 - 
 Key | Value
 ---- | ----
-Target level | Generic understanding
+Target level | 2 actions in any position
 Learning Sources | TBD
-Skill list | curl <br /> git <br /> python <br /> linux <br /> docker <br /> networking <br />
+Skill list | Positions <br /> Mounts <br /> Chokes <br /> Escapes <br /> Setups <br /> 
 Task list | none
 Daily time slot | time
 Tools to obtain | Gi <br />
@@ -22,8 +22,6 @@ Tools to obtain | Gi <br />
 
 ```bash
    # comment
-   echo "hi"
-//
 ```
 
 aa
