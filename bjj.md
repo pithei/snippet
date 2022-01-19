@@ -23,8 +23,20 @@ Tools to obtain | Gi <br />
 Position | Notes
 ---- | ----
 Mount and backmount (top) | 
-Mount and backmount (top) | 
-
+knee on belly (top) |
+side control (top) |
+scarf hold (top) |
+north south (top) |
+turtle (top) |
+half-guard (top) |
+closed guard | NEUTRAL POINT
+half-guard (bottom) |
+turtle (bottom) |
+north south (bottom) |
+scarf hold (bottom) |
+side control
+knee on belly (bottom) |
+mount and back mount (bottom) |
 
 
 ```bash
