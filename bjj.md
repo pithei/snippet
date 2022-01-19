@@ -24,8 +24,8 @@ Tools to obtain | Gi <br />
 Phase | Technique | Notes 
 ---- | ----| ----
 Closing the distance | | Clinch
-Taking the fight to the ground | | Takedowns, sweeps
-Achieving a dominant position | |
+Taking the fight to the ground | | Leg trips,  <br />Hip tosses,  <br />Upper body Takedowns,  <br />Lower body takedowns <br />
+Achieving a dominant position | Guard <br /> Side control <br /> Mount <br /> Back <br /> |
 Finishing the fight | | Submissions
 
 ### Basic Positions
