@@ -19,6 +19,13 @@ Tools to obtain | Gi <br />
 - spaced repetition
 
 ## Notes
+### Basic Positions
+Position | Notes
+---- | ----
+Mount and backmount (top) | 
+Mount and backmount (top) | 
+
+
 
 ```bash
    # comment
