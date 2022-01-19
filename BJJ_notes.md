@@ -21,12 +21,12 @@ Tools to obtain | Gi <br />
 ## Notes
 
 ### Phases
-No |Phase | Technique | Notes 
+No | Phase | Technique Group | Technique List
 ---- | ---- | ----| ----
-1 | Closing the distance | | Clinch
+1 | Closing the distance | Clinch | 
 2 | Taking the fight to the ground | | Leg trips,  <br />Hip tosses,  <br />Upper body Takedowns,  <br />Lower body takedowns <br />
 3 | Achieving a dominant position | Guard <br /> Side control <br /> Mount <br /> Back <br /> |
-4 | Finishing the fight | Chokes <br /> Joint Locks <br /> | Submissions
+4 | Finishing the fight | Chokes <br /> Joint Locks <br /> |
 
 ### Basic Positions
 Position | Attack | Escape | Setup | Notes 
@@ -51,8 +51,6 @@ mount and back mount | bottom
 ```bash
    # comment
 ```
-
-aa
 
 ## Minimum 20 hours of practice
 https://www.reddit.com/r/bjj/comments/e0ycek/a_beginners_guide_to_bjj_please_read_me_white/
