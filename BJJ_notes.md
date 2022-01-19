@@ -51,9 +51,6 @@ mount and back mount | bottom
 ```bash
    # comment
 ```
-
-## Minimum 20 hours of practice
-
 ## Changelog
 Date | Notes
 ---- | ----
