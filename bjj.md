@@ -13,7 +13,7 @@ Tools to obtain | Gi <br />
 - Eliminate any barrier
 - Learn enough to self correct
 - choose a project
-- create fast feedback oops
+- create fast feedback loops
 - quantity over quality
 - practice minimum 20 hours
 - spaced repetition
