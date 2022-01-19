@@ -20,7 +20,7 @@ Tools to obtain | Gi <br />
 
 ## Notes
 ### Basic Positions
-Position | Notes
+Position | Attack | Defend | Setup | Notes 
 ---- | ----
 Mount and backmount | top
 knee on belly | top
