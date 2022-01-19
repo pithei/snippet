@@ -2,7 +2,8 @@
 Key | Value
 ---- | ----
 Target level | 2 actions in any position
-Learning Sources | BJJ for dummies: https://www.youtube.com/watch?v=BVkGvkFsmjI <br /> Knight Jiu Jitsu: https://www.youtube.com/channel/UCDaSNu2fM3JL4VdlSwcFtOw <br /> Grappling Academy: https://www.youtube.com/channel/UCA5inPIH7dvYLAcAg5Wt8mg <br /> Lachlan Giles: https://www.youtube.com/channel/UCVX5F9uZyzzSI9juQRp_2Hw <br /> Stephan Kesting: https://www.youtube.com/user/StephanKesting <br /> General Strength & Conditioning: https://www.youtube.com/channel/UCe0TLA0EsQbE-MjuHXevj2A <br />
+Learning Sources | Reddit : https://www.reddit.com/r/bjj/comments/e0ycek/a_beginners_guide_to_bjj_please_read_me_white/
+<br /> BJJ for dummies: https://www.youtube.com/watch?v=BVkGvkFsmjI <br /> Knight Jiu Jitsu: https://www.youtube.com/channel/UCDaSNu2fM3JL4VdlSwcFtOw <br /> Grappling Academy: https://www.youtube.com/channel/UCA5inPIH7dvYLAcAg5Wt8mg <br /> Lachlan Giles: https://www.youtube.com/channel/UCVX5F9uZyzzSI9juQRp_2Hw <br /> Stephan Kesting: https://www.youtube.com/user/StephanKesting <br /> General Strength & Conditioning: https://www.youtube.com/channel/UCe0TLA0EsQbE-MjuHXevj2A <br />
 Skill list | Positions <br /> Mounts <br /> Chokes <br /> Escapes <br /> Setups <br /> 
 Task list | none
 Daily time slot | time
@@ -53,7 +54,6 @@ mount and back mount | bottom
 ```
 
 ## Minimum 20 hours of practice
-https://www.reddit.com/r/bjj/comments/e0ycek/a_beginners_guide_to_bjj_please_read_me_white/
 
 ## Changelog
 Date | Notes
