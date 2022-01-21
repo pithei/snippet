@@ -52,11 +52,12 @@ mount and back mount | bottom
    # comment
 ```
 ## Changelog
-Date | Notes
----- | ----
-2022.01.18 | De La Riva Guard sweep
-2022.01.14 | PASS, ill
-2022.01.13 | Demo workout
-2022.01.11 | PASS, ill
+ID | Date | Notes
+---- | ---- | ----
+| 2022.01.18 | De La Riva Guard sweep
+| 2022.01.18 | De La Riva Guard sweep
+| 2022.01.14 | PASS, ill
+| 2022.01.13 | Demo workout
+| 2022.01.11 | 
 
 
