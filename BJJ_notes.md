@@ -99,8 +99,8 @@ ID | Date | Notes
 | 2021.10. |
 | 2021.10. |
 | 2021.10. |
-- | 2021.10.08 | sick
-- | 2021.10.07 | sick
+ | 2021.10.08 | sick
+ | 2021.10.07 | sick
 7 | 2021.10.05 | 
 6 | 2021.10.01 | Double leg takedown?, side control
 5 | 2021.09.30 | Double leg takedown?, side control
