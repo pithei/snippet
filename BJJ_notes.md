@@ -57,11 +57,11 @@ ID | Date | Notes
 | 2022.01.21 | De La Riva Guard sweep
 | 2022.01.20 | De La Riva Guard sweep
 | 2022.01.18 | De La Riva Guard sweep
-| 2022.01.14 | PASS, ill
+0 | 2022.01.14 | PASS, ill
 | 2022.01.13 | Demo workout
-| 2022.01.11 | 
+0 | 2022.01.11 | PASS, ill
 | 2022.01.07 |
-| 2022.01.06 | 
+| 2022.01.06 | buvau
 | 2022.01.04 | buvau
 | 2021.12. |
 | 2021.12. |
