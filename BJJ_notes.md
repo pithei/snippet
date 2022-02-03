@@ -54,6 +54,11 @@ mount and back mount | bottom
 ## Changelog
 ID | Date | Notes
 ---- | ---- | ----
+xx | 2022.02.03 | 
+0 | 2022.02.01 | Feeling sick
+44 | 2022.01.28 | Rolling only
+43 | 2022.01.27 | De La Riva Guard sweep, pull guard and arm bar
+42 | 2022.01.24 | De La Riva Guard sweep, pull guard and arm bar
 41 | 2022.01.21 | De La Riva Guard sweep
 40 | 2022.01.20 | De La Riva Guard sweep
 39 | 2022.01.18 | De La Riva Guard sweep
