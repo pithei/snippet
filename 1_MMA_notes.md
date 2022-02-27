@@ -1,9 +1,9 @@
 ## MMA journey 2022.01.17 - 
 Key | Value
 ---- | ----
-Target level | 2 actions in any position
+Target level | None. Physical conditioning supplement for BJJ
 Learning Sources | 
-Skill list | Positions <br /> Mounts <br /> Chokes <br /> Escapes <br /> Setups <br /> 
+Skill list | 
 Task list | none
 Daily time slot | time
 Tools to obtain | Gi <br />
