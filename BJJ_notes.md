@@ -54,7 +54,18 @@ mount and back mount | bottom
 ## Changelog
 ID | Date | Notes
 ---- | ---- | ----
-xx | 2022.02.03 | 
+xx | 2022.03.01 | 
+54 | 2022.02.25 | sparring only
+53 | 2022.02.24 | Side control, attack
+52 | 2022.02.22 | Side control, attack
+0 | 2022.02.18 | 
+51 | 2022.02.17 | Side control, attack
+50 | 2022.02.15 | Side control, attack
+49 | 2022.02.11 | Arm bar from guard bottom
+48 | 2022.02.10 | Arm bar from guard bottom
+47 | 2022.02.08 | Arm bar from guard bottom
+46 | 2022.02.04 | De La Riva escape from top position
+45 | 2022.02.03 | De La Riva escape from top position
 0 | 2022.02.01 | Feeling sick
 44 | 2022.01.28 | Rolling only
 43 | 2022.01.27 | De La Riva Guard sweep, pull guard and arm bar
