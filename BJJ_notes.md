@@ -66,16 +66,16 @@ xx | 2022.03.01 |
 47 | 2022.02.08 | Arm bar from guard bottom
 46 | 2022.02.04 | De La Riva escape from top position
 45 | 2022.02.03 | De La Riva escape from top position
-0 | 2022.02.01 | Feeling sick
+0 | 2022.02.01 | sick
 44 | 2022.01.28 | Rolling only
 43 | 2022.01.27 | De La Riva Guard sweep, pull guard and arm bar
 42 | 2022.01.24 | De La Riva Guard sweep, pull guard and arm bar
 41 | 2022.01.21 | De La Riva Guard sweep
 40 | 2022.01.20 | De La Riva Guard sweep
 39 | 2022.01.18 | De La Riva Guard sweep
-0 | 2022.01.14 | self, sick
+0 | 2022.01.14 | sick
 38 | 2022.01.13 | Demo workout
-0 | 2022.01.11 | self, sick
+0 | 2022.01.11 | sick
 37 | 2022.01.07 |
 36 | 2022.01.06 | buvau
 35 | 2022.01.04 | buvau
@@ -90,28 +90,28 @@ xx | 2022.03.01 |
 33 | 2021.12.14 |
 32 | 2021.12.10 |
 31 | 2021.12.09 | buvau
-0 | 2021.12.07 | self, sick
-30 | 2021.12.03 |
-29 | 2021.12.02 |
-28 | 2021.11.30 |
-27 | 2021.11.26 | buvau
-26 | 2021.11.25 | buvau
-25 | 2021.11.23 | buvau
+0 | 2021.12.07 | sick
+30 | 2021.12.03 | half guard bottoom, + escape ?
+29 | 2021.12.02 | half guard bottoom, + escape ?
+28 | 2021.11.30 | half guard bottoom, + escape ?
+27 | 2021.11.26 | half guard bottoom, + escape ?
+26 | 2021.11.25 | half guard bottoom, + escape ?
+25 | 2021.11.23 | half guard bottoom, + escape ?
 0 | 2021.11.19 | Pasiruošimas varžyboms
 24 | 2021.11.18 |
 23 | 2021.11.16 |
 22 | 2021.11.12 |
 21 | 2021.11.11 |
-20 | 2021.11.09 |
-19 | 2021.11.05 |
-18 | 2021.11.04 |
-17 | 2021.11.02 |
-16 | 2021.10.29 |
-15 | 2021.10.28 |
-14 | 2021.10.26 |
-13 | 2021.10.22 |
-12 | 2021.10.21 |
-11 | 2021.10.19 |
+20 | 2021.11.09 | 
+19 | 2021.11.05 | knee sheald, take back ?
+18 | 2021.11.04 | knee sheald, take back ?
+17 | 2021.11.02 | knee sheald, take back ?
+16 | 2021.10.29 | knee sheald, arm bar ?
+15 | 2021.10.28 | knee sheald, arm bar ?
+14 | 2021.10.26 | knee sheald, arm bar ?
+13 | 2021.10.22 | guard + sweep from bottom?
+12 | 2021.10.21 | guard + sweep from bottom?
+11 | 2021.10.19 | guard + sweep from bottom?
 10 | 2021.10.15 |
 9 | 2021.10.14 |
 8 | 2021.10.12 |
