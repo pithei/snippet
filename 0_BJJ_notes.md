@@ -29,8 +29,8 @@ No | Phase | Technique Group | Technique List
 4 | Finishing the fight | Chokes <br /> Joint Locks <br /> |
 
 ### Basic Positions
-Position | Attack | Escape | Setup | Notes 
----- | ----| ---- | ----| ----
+Position | TOP / BOTTOM | Attack | Escape | Setup | Notes 
+---- | ----| ---- | ----| ---- | ----
 Mount and backmount | top
 knee on belly | top
 side control | top
