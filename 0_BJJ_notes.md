@@ -59,8 +59,8 @@ xx | 2022.05.05 | x
 -- | ---------- | --------------------
 -- | ---------- | NEGALĖJAU LANKYTI
 -- | ---------- | --------------------
-65 | 2022.03.31 | ( Nesu tikras ar buvau?? )
-65 | 2022.03.29 | ( Nesu tikras ar buvau?? )
+-- | 2022.03.31 | ( Nesu tikras ar buvau?? )
+-- | 2022.03.29 | ( Nesu tikras ar buvau?? )
 66 | 2022.03.25 | Ataka iš sėdimos pozicijos, užtempiam už apykakles, ieškom nugaros
 65 | 2022.03.24 | Ataka iš sėdimos pozicijos, užtempiam už apykakles, ieškom nugaros
 64 | 2022.03.22 | Ataka iš sėdimos pozicijos, užtempiam už apykakles, ieškom nugaros
