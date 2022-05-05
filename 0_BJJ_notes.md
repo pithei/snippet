@@ -57,7 +57,7 @@ ID | Date | Notes
 xx | 2022.05.05 | x
 67 | 2022.05.03 | Single X + leg attack
 -- | ---------- | --------------------
--- | ---------- | PERTRAUKA, KINEZI
+-- | ---------- | NEGALĖJAU LANKYTI
 -- | ---------- | --------------------
 65 | 2022.03.31 | ( Nesu tikras ar buvau?? )
 65 | 2022.03.29 | ( Nesu tikras ar buvau?? )
