@@ -54,9 +54,25 @@ mount and back mount | bottom
 ## Changelog
 ID | Date | Notes
 ---- | ---- | ----
-xx | 2022.03.04 | 
-xx | 2022.03.03 | 
-xx | 2022.03.01 | 
+xx | 2022.05.05 | x
+67 | 2022.05.03 | Single X + leg attack
+-- | ---------- | --------------------
+-- | ---------- | PERTRAUKA, KINEZI
+-- | ---------- | --------------------
+65 | 2022.03.31 | ( Nesu tikras ar buvau?? )
+65 | 2022.03.29 | ( Nesu tikras ar buvau?? )
+66 | 2022.03.25 | Ataka iš sėdimos pozicijos, užtempiam už apykakles, ieškom nugaros
+65 | 2022.03.24 | Ataka iš sėdimos pozicijos, užtempiam už apykakles, ieškom nugaros
+64 | 2022.03.22 | Ataka iš sėdimos pozicijos, užtempiam už apykakles, ieškom nugaros
+63 | 2022.03.18 | Guard pass ( Nesu tikras ar buvau?? )
+62 | 2022.03.17 | Guard pass
+61 | 2022.03.15 | Guard pass ( Nesu tikras ar buvau?? )
+60 | 2022.03.12 | Kaunas, shm to shi guard, single X
+59 | 2022.03.10 | Knee on belly, escapes ( ištiesta ranka, tiltelis + čiurna  tarp kojų + pervertimas )
+58 | 2022.03.08 | Knee on belly, escapes ( ištiesta ranka, tiltelis + čiurna  tarp kojų + pervertimas )
+57 | 2022.03.04 | Knee on belly, attacks ( armbars )
+56 | 2022.03.03 | Knee on belly, attacks ( armbars )
+55 | 2022.03.01 | Knee on belly, attacks ( armbars )
 54 | 2022.02.25 | sparring only
 53 | 2022.02.24 | Side control, attack
 52 | 2022.02.22 | Side control, attack
