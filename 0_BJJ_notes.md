@@ -55,7 +55,7 @@ mount and back mount | bottom
 ID | Date | Notes
 ---- | ---- | ----
 81 | 2022.06.04 | Seminaras, Kaunas, Andre Monteiro. Spider Guard
-80 | 2022.06.02 | spider guard, sweep, triangle, omplata
+80 | 2022.06.02 | spider guard, sweep, triangle, omoplata
 79 | 2022.06.01 | spider guard, sweep, triangle
 78 | 2022.05.30 | spider guard, sweep, triangle
 77 | 2022.05.27 | Open Mat
