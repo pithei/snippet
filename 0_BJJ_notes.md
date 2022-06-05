@@ -54,7 +54,21 @@ mount and back mount | bottom
 ## Changelog
 ID | Date | Notes
 ---- | ---- | ----
-xx | 2022.05.05 | x
+81 | 2022.06.04 | Seminaras, Kaunas, Andre Monteiro. Spider Guard
+80 | 2022.06.02 | spider guard, sweep, triangle, omplata
+79 | 2022.06.01 | spider guard, sweep, triangle
+78 | 2022.05.30 | spider guard, sweep, triangle
+77 | 2022.05.27 | Open Mat
+76 | 2022.05.26 | Takedown, pasitikslinti, traukiam i apačia + s-mount ant žemės
+75 | 2022.05.24 | Takedown, pasitikslinti, traukiam i apačia + s-mount ant žemės
+74 | 2022.05.20 | Single leg take down+
+73 | 2022.05.19 | Single leg take down+
+72 | 2022.05.17 | Single leg take down+
+-- | 2022.05.13 | Praleidau? Nepamenu.
+71 | 2022.05.12 | Leg attack
+70 | 2022.05.10 | Leg attack
+69 | 2022.05.06 | Leg attack
+68 | 2022.05.05 | Leg attack
 67 | 2022.05.03 | Single X + leg attack
 -- | ---------- | --------------------
 -- | ---------- | NEGALĖJAU LANKYTI
