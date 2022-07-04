@@ -54,6 +54,43 @@ mount and back mount | bottom
 ## Changelog
 ID | Date | Notes
 ---- | ---- | ----
+
+
+103 | 2022.08.18 | 
+102 | 2022.08.17 | 
+
+-- | ---------- | --------------------
+-- | ---------- | Atostogos
+-- | ---------- | --------------------
+
+101 | 2022.07.28 | 
+100 | 2022.07.27 | 
+99 | 2022.07.25 | 
+
+98 | 2022.07.21 | 
+97 | 2022.07.20 | 
+96 | 2022.07.18 | 
+
+95 | 2022.07.14 | 
+94 | 2022.07.13 | 
+-- | 2022.07.11 | OFF, būsiu workation
+
+93 | 2022.07.07 | 
+92 | 2022.07.06 | ( ne darbo diena? )
+-- | 2022.07.04 | OFF
+
+91 | 2022.06.30 | NO-GI, Open Mat
+90 | 2022.06.29 | Spider guard, Laso, sweep
+89 | 2022.06.27 | Spider guard, Laso, sweep
+88 | 2022.06.23 | NO-GI, Guard pass ginyba, kuomet apverčiam, kojos ant pečių
+87 | 2022.06.22 | Guard pass ginyba, kuomet apverčiam, kojos ant pečių
+86 | 2022.06.20 | Guard pass, apverčiam, kojos ant pečių + puola į kojas, nugaros paėmimas
+85 | 2022.06.16 | NO-GI, Guard pass, apverčiam, kojos ant pečių, smesh :)
+84 | 2022.06.15 | Guard pass, apverčiam, kojos ant pečių
+83 | 2022.06.13 | Guard pass, apverčiam, kojos ant pečių
+-- | 2022.06.09 | OFF, SICK
+-- | 2022.06.08 | OFF, SICK
+82 | 2022.06.06 | Spider Guard, sweeps
 81 | 2022.06.04 | Seminaras, Kaunas, Andre Monteiro. Spider Guard
 80 | 2022.06.02 | spider guard, sweep, triangle, omoplata
 79 | 2022.06.01 | spider guard, sweep, triangle
