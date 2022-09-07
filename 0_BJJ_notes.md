@@ -54,16 +54,21 @@ mount and back mount | bottom
 ## Changelog
 ID | Date | Notes
 ---- | ---- | ----
-100 | 2022.08.18 | 
-99 | 2022.08.17 | 
+105 | 2022.09.05 | Guard pass, knee slice + lapel
+104 | 2022.08.31 | Guard pass, knee slice + lapel
+103 | 2022.08.29 | Guard pass, knee slice + lapel
+102 | 2022.08.25 | Kovu diena, no-gi
+101 | 2022.08.22 | Guard pass, arm triangle choke?
+100 | 2022.08.17 | Guard pass, wipers + knee slice
+99 | 2022.08.16 | Guard pass, wipers + knee slice
 -- | ---------- | --------------------
 -- | ---------- | Atostogos
 -- | ---------- | --------------------
-98 | 2022.07.21 | 
-97 | 2022.07.20 | 
-96 | 2022.07.18 | 
-95 | 2022.07.14 | 
-94 | 2022.07.13 | 
+98 | 2022.07.21 | Triangle iš apačios, lipimas i mount nuo nepavykusio armbar / kai susikabina, no-gi
+97 | 2022.07.20 | Triangle iš apačios, lipimas i mount nuo nepavykusio armbar / kai susikabina
+96 | 2022.07.18 | Triangle iš apačios, lipimas i mount nuo nepavykusio armbar
+95 | 2022.07.14 | Wrist lock iš top, no-gi, Trneris Gaurilcikas
+94 | 2022.07.13 | Wrist lock iš top, Trneris Gaurilcikas
 -- | 2022.07.11 | OFF, būsiu workation
 93 | 2022.07.07 | 
 92 | 2022.07.06 | ( ne darbo diena? )
