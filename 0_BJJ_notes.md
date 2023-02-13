@@ -47,9 +47,11 @@ side control
 knee on belly | bottom
 mount and back mount | bottom
 
-
+### Techniques
 ```bash
-   # comment
+   # The Spinning ArmLock from guard, closed guard, bottom, attack
+   # How To Execute A Spinning Arm Bar From Side Control,    https://www.youtube.com/watch?v=ct_TpL2u00k&t=12s
+
 ```
 ## Changelog
 ID | Date | Notes
