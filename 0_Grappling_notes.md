@@ -1,4 +1,4 @@
-## BJJ journey 2021.10.01 - 
+## Grappling notes since 2021.10.01 - 
 Key | Value
 ---- | ----
 Target level | 2 actions in any position
