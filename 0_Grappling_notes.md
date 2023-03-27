@@ -62,9 +62,42 @@ mount and back mount | bottom
 ## Changelog
 ID | Date | Notes
 ---- | ---- | ----
-165 | 2023.02.10 |
-164 | 2023.02.09 |
-163 | 2023.02.08 |
+196 | 2023.03.31 | 
+195 | 2023.03.30 | 
+194 | 2023.03.29 | 
+193 | 2023.03.28 | 
+192 | 2023.03.27 | 
+--- | 2023.03.24 | missed
+191 | 2023.03.23 | MMA, no gi
+190 | 2023.03.22 | Attack turtle, Peruvian necktie
+189 | 2023.03.21 | Attack turtle, Peruvian necktie, no gi
+188 | 2023.03.20 | Attack turtle, Peruvian necktie
+187 | 2023.03.17 | Guard pass, mynimas ant kojos
+186 | 2023.03.16 | Guard pass, mynimas ant kojos, no gi
+185 | 2023.03.15 | Guard pass, leg pull
+184 | 2023.03.14 | Guard pass, no gi
+183 | 2023.03.13 | Guard pass
+182 | 2023.03.10 | Guard pass
+181 | 2023.03.09 | Guard pass, no gi, Vytautas
+180 | 2023.03.08 | Guard pass, belt promotions ( gavau 4 stripe )
+179 | 2023.03.07 | Guard pass, no gi
+178 | 2023.03.06 | Guard pass
+--- | 2023.03.03 | Penktadienis, day off, klubo pasiruošimas varžyboms
+177 | 2023.03.02 | Ginybos is closed guard apacios, Treneris Vytautas, su gi? 
+176 | 2023.03.01 | Ginybos is closed guard apacios
+175 | 2023.02.28 | Kojų ataka, koju suspaudimas ir patraukimas gulint, no gi 
+174 | 2023.02.27 | closed guard bottom, arm bar, permetimas per save
+173 | 2023.02.24 | Šiauliai, kovų diena, gi
+172 | 2023.02.23 | Panvėžys, kovų diena, gi
+171 | 2023.02.22 | pakratojimai, swwep, triangle, baras, is bottom closed guard
+170 | 2023.02.21 | alkunes lauzimas is closed guard bottom, no gi
+169 | 2023.02.20 | alkunes lauzimas is closed guard bottom
+168 | 2023.02.17 | sweep
+167 | 2023.02.16 | MMA, no gi
+166 | 2023.02.15 | 
+165 | 2023.02.10 | omoplata
+164 | 2023.02.09 | omoplata, no gi
+163 | 2023.02.08 | omoplata
 162 | 2023.02.07 |
 161 | 2023.02.06 |
 160 | 2023.02.03 |
