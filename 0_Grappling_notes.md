@@ -62,51 +62,51 @@ mount and back mount | bottom
 ## Changelog
 ID | Date | Notes
 ---- | ---- | ----
--- | 2023.08.14 | leg attacks, skipped sparring, šoknkaulis
+235 | 2023.08.14 | leg attacks, skipped sparring, šoknkaulis
 -- | 2023.08.11 | skipped, šonkaulis
--- | 2023.08.10 | MMA, takedowns
--- | 2023.08.09 | no gi, leg attacks
+234 | 2023.08.10 | MMA, takedowns
+233 | 2023.08.09 | no gi, leg attacks
 -- | 2023.08.08 | MMA, kickboxing
--- | 2023.08.07 | leg attacks
--- | 2023.08.04 | sweep and arm triangle attack
--- | 2023.08.03 | MMA, tik roll, nebuvo trenerio
--- | 2023.08.02 | no gi, guard pass
--- | 2023.07.31 | bottom closed guard triangle attack
+232 | 2023.08.07 | leg attacks
+231 | 2023.08.04 | sweep and arm triangle attack
+230 | 2023.08.03 | MMA, tik roll, nebuvo trenerio
+229 | 2023.08.02 | no gi, guard pass
+228 | 2023.07.31 | bottom closed guard triangle attack
 -- | 2023.07.01 | missed, atostogos iki 07.30
--- | 2023.06.30 | open mat
--- | 2023.06.28 | pašiuožimas į singler leg, guard pass
--- | 2023.06.27 | no gi, pačiuožimas iš sėdint ir guard pass
--- | 2023.06.26 | atsistojimas is bottom guard?
--- | 2023.06.20 | no gi, guard pass - užtaisom anaconda
--- | 2023.06.19 | dlariva sweep, guard pass?
--- | 2023.06.16 | delariva sweep?
--- | 2023.06.09 | delariva sweep?
--- | 2023.06.08 | no gi, delariva sweep?
--- | 2023.06.05 | delariva sweep?
+227 | 2023.06.30 | open mat
+226 | 2023.06.28 | pašiuožimas į singler leg, guard pass
+225 | 2023.06.27 | no gi, pačiuožimas iš sėdint ir guard pass
+224 | 2023.06.26 | atsistojimas is bottom guard?
+223 | 2023.06.20 | no gi, guard pass - užtaisom anaconda
+222 | 2023.06.19 | dlariva sweep, guard pass?
+221 | 2023.06.16 | delariva sweep?
+220 | 2023.06.09 | delariva sweep?
+219 | 2023.06.08 | no gi, delariva sweep?
+218 | 2023.06.05 | delariva sweep?
 -- | 2023.06.02 | skipped, petys
--- | 2023.05.31 | tripod
--- | 2023.05.30 | no gi tripod
--- | 2023.05.29 | tripod
--- | 2023.05.26 | open mat
--- | 2023.05.24 | side control su atlapais ataka
--- | 2023.05.23 | no gi, closed guard to triangle
--- | 2023.05.22 | hip bump guiliotine
+217 | 2023.05.31 | tripod
+216 | 2023.05.30 | no gi tripod
+215 | 2023.05.29 | tripod
+214 | 2023.05.26 | open mat
+213 | 2023.05.24 | side control su atlapais ataka
+212 | 2023.05.23 | no gi, closed guard to triangle
+211 | 2023.05.22 | hip bump guiliotine
 -- | 2023.05.15 | skipped iki 22d, petys
--- | 2023.05.11 | MMA
--- | 2023.05.10 | Side control, smaugimas su atlapais
--- | 2023.05.09 | No Gi, side control
--- | 2023.05.08 | Side control, su atlaipais, takedowns
--- | 2023.05.04 | MMA takedowns
--- | 2023.04.24 | Closed guard. sweeep arm bar
--- | 2023.04.21 | darce choke
--- | 2023.04.20 | no gi, darce choke
--- | 2023.04.19 | Darce choke from knee on belly
--- | 2023.04.18 | no gi, darce
--- | 2023.04.17 | darce choke
--- | 2023.04.11 | No Gi, darce choke
--- | 2023.04.05 | Half guard pass
--- | 2023.04.04 | No Gi half guard pas
--- | 2023.04.03 | Half Guard pass
+210 | 2023.05.11 | MMA
+209 | 2023.05.10 | Side control, smaugimas su atlapais
+208 | 2023.05.09 | No Gi, side control
+207 | 2023.05.08 | Side control, su atlaipais, takedowns
+206 | 2023.05.04 | MMA takedowns
+205 | 2023.04.24 | Closed guard. sweeep arm bar
+204 | 2023.04.21 | darce choke
+203 | 2023.04.20 | no gi, darce choke
+202 | 2023.04.19 | Darce choke from knee on belly
+201 | 2023.04.18 | no gi, darce
+200 | 2023.04.17 | darce choke
+199 | 2023.04.11 | No Gi, darce choke
+198 | 2023.04.05 | Half guard pass
+197 | 2023.04.04 | No Gi half guard pas
+196 | 2023.04.03 | Half Guard pass
 -- | 2023.03.31 | missed
 195 | 2023.03.30 | No Gi
 194 | 2023.03.29 | Half guard  defence
