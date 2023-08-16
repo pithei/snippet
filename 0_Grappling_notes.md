@@ -62,11 +62,27 @@ mount and back mount | bottom
 ## Changelog
 ID | Date | Notes
 ---- | ---- | ----
-196 | 2023.03.31 | 
-195 | 2023.03.30 | 
-194 | 2023.03.29 | 
-193 | 2023.03.28 | 
-192 | 2023.03.27 | 
+-- | 2023._._ | 
+-- | 2023._._ | 
+-- | 2023._._ | 
+-- | 2023._._ | 
+-- | 2023._._ | 
+-- | 2023._._ | 
+-- | 2023.04.24 | 
+-- | 2023.04.21 | darce choke
+-- | 2023.04.20 | no gi, darce choke
+-- | 2023.04.19 | Darce choke from knee on belly
+-- | 2023.04.18 | no gi, darce
+-- | 2023.04.17 | darce choke
+-- | 2023.04.11 | No Gi, darce choke
+-- | 2023.04.05 | Half guard pass
+-- | 2023.04.04 | No Gi half guard pas
+-- | 2023.04.03 | Half Guard pass
+-- | 2023.03.31 | missed
+195 | 2023.03.30 | No Gi
+194 | 2023.03.29 | Half guard  defence
+193 | 2023.03.28 | No Gi half guard def
+192 | 2023.03.27 | Half guard  defence
 --- | 2023.03.24 | missed
 191 | 2023.03.23 | MMA, no gi
 190 | 2023.03.22 | Attack turtle, Peruvian necktie
