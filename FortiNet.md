@@ -1,27 +1,9 @@
 ## Forti 
-Key | Value
----- | ----
-Target level | None. Physical conditioning supplement for BJJ
-Learning Sources | 
-Skill list | 
-Task list | none
-Daily time slot | time
-Tools to obtain | Gi <br />
-
-
-## Tips
-- Eliminate any barrier
-- Learn enough to self correct
-- choose a project
-- create fast feedback loops
-- quantity over quality
-- practice minimum 20 hours
-- spaced repetition
 
 ## Forti VPN
 
 
-```python
+```ruby
 # IPSec TSHOOT
 # http://cookbook.fortinet.com/ipsec-vpn-troubleshooting/
 diagnose debug disable
