@@ -26,8 +26,12 @@ diagnose debug application fnbamd -1
 diagnose debug enable
 ```
 
-## Changelog
-ID | Date | Notes
----- | ---- | ----
-10 | 2022.02.28 | aa
+## FSSO
+
+```python
+diagnose debug reset
+diagnose debug application sslvpn -1
+diagnose debug application fnbamd -1
+diagnose debug enable
+```
 
