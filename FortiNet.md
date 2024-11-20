@@ -3,7 +3,7 @@
 ## Forti VPN
 
 
-```ruby
+```js
 # IPSec TSHOOT
 # http://cookbook.fortinet.com/ipsec-vpn-troubleshooting/
 diagnose debug disable
