@@ -99,3 +99,19 @@ exec log filter device 1        # 1 Disk
 exec log filter category 0      # 0 Traffic
 exec log filter field policyid <policy_id>
 ```
+## fortiflex debug
+```python
+execute ping-options source <IP>
+execute ping directregistration.fortinet.com
+diag debug disable
+diag debug reset
+diag debug flow filter clear
+diag debug console timestamp enable
+diag debug flow show function-name enable
+diag debug flow show iprope enable
+diag debug flow filter addr <resolved_ip_for_directregistration.fortinet.com>
+diag debug flow trace start 100
+diag debug enable
+execute vm-license <licence_key>
+
+```
